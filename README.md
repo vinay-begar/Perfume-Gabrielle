@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/vinay-begar/huddle-landing-page)
-- Live Site URL: [Vercel Link](https://huddle-landing-page-ruby-five.vercel.app/)
+- Solution URL: [Github]()
+- Live Site URL: [Vercel Link](https://perfume-gabrielle-tau.vercel.app/)
 
 ### ScreenShot
 
